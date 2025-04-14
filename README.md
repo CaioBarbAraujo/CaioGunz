@@ -9,7 +9,7 @@
   Olá! Meu nome é Caio Araujo, tenho 23 anos e sou Analista de Dados
   <br>
   <br>
-  📚 Atualmente estou cursando uma formação de Analista de Dados na plataforma Xperiun
+  📚 Atualmente estou cursando Ciência de Dados na PUC Minas
   <br>
   🎓 Sou Formado em Engenharia de Software na UniCesumar de Maringá
   <br>
