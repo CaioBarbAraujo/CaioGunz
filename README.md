@@ -41,17 +41,11 @@
   <h2>:fire: Tecnologias :fire:</h2>
     <img src="https://img.shields.io/badge/Python-035354?style=for-the-badge&logo=Python"/>
     <img src="https://img.shields.io/badge/Power Bi-035354?style=for-the-badge&logo=powerbi"/>
-    <img src="https://img.shields.io/badge/jupyter-035354?style=for-the-badge&logo=jupyter"/>
     <img src="https://img.shields.io/badge/qlik-035354?style=for-the-badge&logo=qlik"/>
-    <img src="https://img.shields.io/badge/java-035354?style=for-the-badge&logo=oracle"/>
     <img src="https://img.shields.io/badge/SQL-035354?style=for-the-badge&logo=sqlite"/>
     <img src="https://img.shields.io/badge/microsoft excel-035354?style=for-the-badge&logo=microsoftexcel"/>
-    <img src="https://img.shields.io/badge/vs code-035354?style=for-the-badge&logo=visualstudiocode"/>
     <img src="https://img.shields.io/badge/grafana-035354?style=for-the-badge&logo=grafana"/>
     <img src="https://img.shields.io/badge/r-035354?style=for-the-badge&logo=r"/>
-    <img src="https://img.shields.io/badge/apache airflow-035354?style=for-the-badge&logo=apacheairflow"/>
-    <img src="https://img.shields.io/badge/apache spark-035354?style=for-the-badge&logo=apachespark"/>
-    <br>
     <br>
     <img src="https://img.shields.io/badge/selenium-035354?style=for-the-badge&logo=selenium"/>
     <img src="https://img.shields.io/badge/pandas-035354?style=for-the-badge&logo=pandas"/>
