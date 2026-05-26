@@ -59,21 +59,21 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=420 src="https://github-readme-stats.vercel.app/api?username=CaioGunz&show_icons=true&theme=transparent&title_color=008485" alt="CaioGunz" />
+      <img align="center" width=420 src="https://github-readme-stats.vercel.app/api?username=CaioBarbAraujo&show_icons=true&theme=transparent&title_color=008485" alt="CaioBarbAraujo" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGunz&hide_progress=true&theme=transparent&title_color=008485" />
+      <img width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBarbAraujo&hide_progress=true&theme=transparent&title_color=008485" />
     </a>
     <br>
     <br>
     <p align="center"> 
     <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=CaioGunz&theme=onedark&title=Commits,Repositories,Experience,Issues,Stars,Followers" alt="CaioGunz"/>
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=CaioBarbAraujo&theme=onedark&title=Commits,Repositories,Experience,Issues,Stars,Followers" alt="CaioGunz"/>
     </a> 
     </p> 
   </div>
   <br>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=CaioGunz&theme=react-dark&bg_color=20232a&hide_border=true&title_color=008485&color=008485&line=008485" width="100%"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=CaioBarbAraujo&theme=react-dark&bg_color=20232a&hide_border=true&title_color=008485&color=008485&line=008485" width="100%"/>
 </p>
 
 <br/>
