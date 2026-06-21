@@ -54,7 +54,7 @@
   <br><br>
 </div>
 
-<h2 align="center">:star2: Status :star2:</h2>
+<!-- <h2 align="center">:star2: Status :star2:</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -74,7 +74,7 @@
   </div>
   <br>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=CaioBarbAraujo&theme=react-dark&bg_color=20232a&hide_border=true&title_color=008485&color=008485&line=008485" width="100%"/>
-</p>
+</p> -->
 
 <br/>
 <br/>
